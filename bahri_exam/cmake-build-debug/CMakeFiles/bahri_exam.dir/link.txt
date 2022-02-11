@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/bahri_exam.dir/main.c.o -o bahri_exam 

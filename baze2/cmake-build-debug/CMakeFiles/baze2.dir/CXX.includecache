@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/baze2/main.cpp
+iostream
+-
+stdlib.h
+/home/asia/CLionProjects/baze2/stdlib.h
+algorithm
+/home/asia/CLionProjects/baze2/algorithm
+vector
+/home/asia/CLionProjects/baze2/vector
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bishtarin_tedad_baze.dir/main.cpp.o -o bishtarin_tedad_baze 

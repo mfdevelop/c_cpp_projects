@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/masirmontahibamaximumvazn/main.cpp
+iostream
+-
+algorithm
+-
+vector
+/home/asia/CLionProjects/masirmontahibamaximumvazn/vector
+

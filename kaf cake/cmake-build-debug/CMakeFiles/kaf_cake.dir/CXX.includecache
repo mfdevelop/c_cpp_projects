@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/kaf cake/main.cpp
+iostream
+-
+algorithm
+/home/asia/CLionProjects/kaf cake/algorithm
+

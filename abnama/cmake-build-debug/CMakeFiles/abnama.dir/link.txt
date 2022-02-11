@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/abnama.dir/main.cpp.o -o abnama 

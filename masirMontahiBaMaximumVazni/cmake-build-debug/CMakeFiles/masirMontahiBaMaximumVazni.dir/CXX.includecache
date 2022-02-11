@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/masirMontahiBaMaximumVazni/main.cpp
+iostream
+-
+bits/stdc++.h
+/home/asia/CLionProjects/masirMontahiBaMaximumVazni/bits/stdc++.h
+

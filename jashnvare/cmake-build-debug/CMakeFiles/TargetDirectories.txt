@@ -1,0 +1,3 @@
+/home/asia/CLionProjects/jashnvare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asia/CLionProjects/jashnvare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asia/CLionProjects/jashnvare/cmake-build-debug/CMakeFiles/jashnvare.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/divar_chini.dir/main.cpp.o -o divar_chini 

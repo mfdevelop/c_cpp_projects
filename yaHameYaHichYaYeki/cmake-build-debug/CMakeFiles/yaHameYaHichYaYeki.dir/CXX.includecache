@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/yaHameYaHichYaYeki/main.cpp
+iostream
+-
+vector
+/home/asia/CLionProjects/yaHameYaHichYaYeki/vector
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/nobarane.dir/main.cpp.o -o nobarane 

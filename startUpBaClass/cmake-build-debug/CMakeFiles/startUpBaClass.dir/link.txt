@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/startUpBaClass.dir/main.cpp.o -o startUpBaClass 

@@ -1,0 +1,3 @@
+/home/asia/CLionProjects/divar_chini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asia/CLionProjects/divar_chini/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asia/CLionProjects/divar_chini/cmake-build-debug/CMakeFiles/divar_chini.dir

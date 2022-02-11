@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asia/CLionProjects/energy khor/main.cpp
+iostream
+-
+algorithm
+/home/asia/CLionProjects/energy khor/algorithm
+vector
+/home/asia/CLionProjects/energy khor/vector
+

@@ -1,0 +1,3 @@
+/home/asia/CLionProjects/bishtarin tedad baze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asia/CLionProjects/bishtarin tedad baze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asia/CLionProjects/bishtarin tedad baze/cmake-build-debug/CMakeFiles/bishtarin_tedad_baze.dir

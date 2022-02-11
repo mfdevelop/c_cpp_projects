@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bozortarinzirjadval.dir/main.cpp.o -o bozortarinzirjadval 

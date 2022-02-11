@@ -1,0 +1,3 @@
+/home/asia/CLionProjects/bozorgtarin_zir_baze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asia/CLionProjects/bozorgtarin_zir_baze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asia/CLionProjects/bozorgtarin_zir_baze/cmake-build-debug/CMakeFiles/bozorgtarin_zir_baze.dir

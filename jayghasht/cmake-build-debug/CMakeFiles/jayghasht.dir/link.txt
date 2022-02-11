@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/jayghasht.dir/main.cpp.o -o jayghasht 

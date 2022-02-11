@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/chaleshMasirYabi.dir/main.cpp.o CMakeFiles/chaleshMasirYabi.dir/lozi.cpp.o -o chaleshMasirYabi 

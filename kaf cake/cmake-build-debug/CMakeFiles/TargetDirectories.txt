@@ -1,0 +1,3 @@
+/home/asia/CLionProjects/kaf cake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asia/CLionProjects/kaf cake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asia/CLionProjects/kaf cake/cmake-build-debug/CMakeFiles/kaf_cake.dir

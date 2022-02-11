@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/baze2.dir/main.cpp.o -o baze2 
